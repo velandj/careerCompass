@@ -1,0 +1,1715 @@
+[
+  {
+    "model": "core.college",
+    "pk": 1,
+    "fields": {
+      "name": "Anna University",
+      "location": "Chennai, Tamil Nadu",
+      "website": "https://www.annauniv.edu",
+      "college_type": "University",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Sports Complex",
+        "Wi-Fi Campus"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 2,
+    "fields": {
+      "name": "Madras Institute of Technology (MIT), Anna University",
+      "location": "Chromepet, Chennai, Tamil Nadu",
+      "website": "https://www.mitindia.edu",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Labs",
+        "Hostel",
+        "Sports Complex",
+        "Wi-Fi Campus"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 3,
+    "fields": {
+      "name": "Thiagarajar College of Engineering",
+      "location": "Madurai, Tamil Nadu",
+      "website": "https://www.tce.edu",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Labs",
+        "Hostel",
+        "Sports Complex"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 4,
+    "fields": {
+      "name": "Government College of Technology (GCT)",
+      "location": "Coimbatore, Tamil Nadu",
+      "website": "https://www.gct.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Labs",
+        "Hostel",
+        "Workshops"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 5,
+    "fields": {
+      "name": "Alagappa Chettiar Government College of Engineering and Technology",
+      "location": "Karaikudi, Tamil Nadu",
+      "website": "https://www.accet.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Labs",
+        "Hostel",
+        "Sports Complex"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 6,
+    "fields": {
+      "name": "Government College of Engineering, Salem",
+      "location": "Salem, Tamil Nadu",
+      "website": "https://www.gcesalem.edu.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 7,
+    "fields": {
+      "name": "Government College of Engineering, Tirunelveli",
+      "location": "Tirunelveli, Tamil Nadu",
+      "website": "http://www.gcetly.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs",
+        "Sports Complex"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 8,
+    "fields": {
+      "name": "Government College of Engineering, Bargur",
+      "location": "Bargur, Tamil Nadu",
+      "website": "http://www.gcebargur.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 9,
+    "fields": {
+      "name": "Government College of Engineering, Dharmapuri",
+      "location": "Dharmapuri, Tamil Nadu",
+      "website": "http://www.gcedpi.edu.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 10,
+    "fields": {
+      "name": "Government College of Engineering, Bodinayakkanur",
+      "location": "Theni, Tamil Nadu",
+      "website": "http://gcebodi.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 11,
+    "fields": {
+      "name": "Madras Medical College",
+      "location": "Chennai, Tamil Nadu",
+      "website": "https://www.mmc.ac.in",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Hostel",
+        "Library",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 12,
+    "fields": {
+      "name": "Stanley Medical College",
+      "location": "Chennai, Tamil Nadu",
+      "website": "http://stanleymedicalcollege.in",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Labs",
+        "Hostel",
+        "Library"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 13,
+    "fields": {
+      "name": "Kilpauk Medical College",
+      "location": "Chennai, Tamil Nadu",
+      "website": "http://kmc.ac.in",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 14,
+    "fields": {
+      "name": "Government Medical College, Tirunelveli",
+      "location": "Tirunelveli, Tamil Nadu",
+      "website": "http://tmc.ac.in",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Labs",
+        "Library",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 15,
+    "fields": {
+      "name": "Madurai Medical College",
+      "location": "Madurai, Tamil Nadu",
+      "website": "http://maduraimedicalcollege.org",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Library",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 16,
+    "fields": {
+      "name": "Chengalpattu Medical College",
+      "location": "Chengalpattu, Tamil Nadu",
+      "website": "http://cmc.ac.in",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Hostel",
+        "Library",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 17,
+    "fields": {
+      "name": "Coimbatore Medical College",
+      "location": "Coimbatore, Tamil Nadu",
+      "website": "http://cmc.ac.in",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Hostel",
+        "Library",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 18,
+    "fields": {
+      "name": "Thanjavur Medical College",
+      "location": "Thanjavur, Tamil Nadu",
+      "website": "http://tmc.ac.in",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Library",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 19,
+    "fields": {
+      "name": "Government Arts College, Salem",
+      "location": "Salem, Tamil Nadu",
+      "website": "http://gacsalem.edu.in",
+      "college_type": "Arts & Science",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Auditorium",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 20,
+    "fields": {
+      "name": "Queen Mary’s College",
+      "location": "Chennai, Tamil Nadu",
+      "website": "http://queenmaryscollege.edu.in",
+      "college_type": "General",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 21,
+    "fields": {
+      "name": "Presidency College, Chennai",
+      "location": "Chennai, Tamil Nadu",
+      "website": "http://presidencychennai.ac.in",
+      "college_type": "General",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 22,
+    "fields": {
+      "name": "Government Arts College for Men, Nandanam",
+      "location": "Chennai, Tamil Nadu",
+      "website": "http://gacnandanam.edu.in",
+      "college_type": "Arts & Science",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 23,
+    "fields": {
+      "name": "Government Law College, Chennai",
+      "location": "Chennai, Tamil Nadu",
+      "website": "https://glcchennai.ac.in",
+      "college_type": "Law",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Auditorium"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 24,
+    "fields": {
+      "name": "Madurai Law College",
+      "location": "Madurai, Tamil Nadu",
+      "website": "http://mlcmadurai.org",
+      "college_type": "Law",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 25,
+    "fields": {
+      "name": "Indian Institute of Technology Madras (IIT Madras)",
+      "location": "Chennai, Tamil Nadu",
+      "website": "https://www.iitm.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research Center",
+        "Sports Complex"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 26,
+    "fields": {
+      "name": "National Institute of Technology, Trichy (NIT Trichy)",
+      "location": "Tiruchirappalli, Tamil Nadu",
+      "website": "https://www.nitt.edu",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research Center"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 27,
+    "fields": {
+      "name": "Anna University - College of Engineering, Guindy (CEG)",
+      "location": "Guindy, Chennai, Tamil Nadu",
+      "website": "https://www.annauniv.edu",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 28,
+    "fields": {
+      "name": "Government College of Engineering, Salem (GCE Salem)",
+      "location": "Salem, Tamil Nadu",
+      "website": "https://www.gcesalem.edu.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Labs",
+        "Hostel",
+        "Library"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 29,
+    "fields": {
+      "name": "Government College of Engineering, Srirangam",
+      "location": "Tiruchirappalli, Tamil Nadu",
+      "website": "",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 30,
+    "fields": {
+      "name": "Government College of Engineering, Karur",
+      "location": "Karur, Tamil Nadu",
+      "website": "",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 31,
+    "fields": {
+      "name": "Indian Institute of Technology Bombay (IIT Bombay)",
+      "location": "Mumbai, Maharashtra",
+      "website": "https://www.iitb.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research Center"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 32,
+    "fields": {
+      "name": "Indian Institute of Technology Delhi (IIT Delhi)",
+      "location": "New Delhi",
+      "website": "https://home.iitd.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research Center"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 33,
+    "fields": {
+      "name": "Indian Institute of Technology Kanpur (IIT Kanpur)",
+      "location": "Kanpur, Uttar Pradesh",
+      "website": "https://iitk.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research Center"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 34,
+    "fields": {
+      "name": "All India Institute of Medical Sciences (AIIMS), New Delhi",
+      "location": "New Delhi",
+      "website": "https://www.aiims.edu",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Research Center",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 35,
+    "fields": {
+      "name": "Jawaharlal Nehru University (JNU)",
+      "location": "New Delhi",
+      "website": "https://www.jnu.ac.in",
+      "college_type": "University",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research Center"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 36,
+    "fields": {
+      "name": "Banaras Hindu University (BHU)",
+      "location": "Varanasi, Uttar Pradesh",
+      "website": "https://www.bhu.ac.in",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Hospital"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 37,
+    "fields": {
+      "name": "National Institute of Technology, Warangal (NIT Warangal)",
+      "location": "Warangal, Telangana",
+      "website": "https://www.nitw.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research Center"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 38,
+    "fields": {
+      "name": "National Institute of Technology, Surathkal (NITK)",
+      "location": "Surathkal, Karnataka",
+      "website": "https://www.nitk.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research Center"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 39,
+    "fields": {
+      "name": "Indian Institute of Science (IISc), Bangalore",
+      "location": "Bengaluru, Karnataka",
+      "website": "https://www.iisc.ac.in",
+      "college_type": "Arts & Science",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Research Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 40,
+    "fields": {
+      "name": "Aligarh Muslim University (AMU)",
+      "location": "Aligarh, Uttar Pradesh",
+      "website": "https://www.amu.ac.in",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Hospital"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 41,
+    "fields": {
+      "name": "SMIMER Government Medical College",
+      "location": "Surat, Gujarat",
+      "website": "",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 42,
+    "fields": {
+      "name": "King George's Medical University (KGMU)",
+      "location": "Lucknow, Uttar Pradesh",
+      "website": "https://www.kgmu.org",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Research Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 43,
+    "fields": {
+      "name": "Government Engineering College, Thrissur",
+      "location": "Thrissur, Kerala",
+      "website": "",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 44,
+    "fields": {
+      "name": "National Institute of Fashion Technology (NIFT), Delhi",
+      "location": "New Delhi",
+      "website": "https://www.nift.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Design Labs",
+        "Library",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 45,
+    "fields": {
+      "name": "College of Engineering, Guindy (CEG) - Anna University",
+      "location": "Chennai, Tamil Nadu",
+      "website": "https://www.annauniv.edu",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 46,
+    "fields": {
+      "name": "Government College of Engineering, Kannur",
+      "location": "Kannur, Kerala",
+      "website": "",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 47,
+    "fields": {
+      "name": "Indian Institute of Technology, Guwahati (IIT Guwahati)",
+      "location": "Guwahati, Assam",
+      "website": "https://iitg.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research Center"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 48,
+    "fields": {
+      "name": "Indian Institute of Technology, Roorkee (IIT Roorkee)",
+      "location": "Roorkee, Uttarakhand",
+      "website": "https://www.iitr.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 49,
+    "fields": {
+      "name": "National Institute of Technology, Rourkela (NIT Rourkela)",
+      "location": "Rourkela, Odisha",
+      "website": "https://www.nitrkl.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research Center"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 50,
+    "fields": {
+      "name": "Government College of Technology, Coimbatore (additional campus)",
+      "location": "Coimbatore, Tamil Nadu",
+      "website": "https://www.gct.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Workshops"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 51,
+    "fields": {
+      "name": "Punjab Engineering College (PEC)",
+      "location": "Chandigarh, Punjab",
+      "website": "https://www.pec.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 52,
+    "fields": {
+      "name": "Jadavpur University",
+      "location": "Kolkata, West Bengal",
+      "website": "http://www.jaduniv.edu.in",
+      "college_type": "University",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 53,
+    "fields": {
+      "name": "Indian Institute of Technology, Hyderabad (IIT Hyderabad)",
+      "location": "Hyderabad, Telangana",
+      "website": "https://iith.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 54,
+    "fields": {
+      "name": "Aligarh Muslim University - Zakir Husain College (Govt linked)",
+      "location": "Aligarh, Uttar Pradesh",
+      "website": "https://www.amu.ac.in",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Hospital"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 55,
+    "fields": {
+      "name": "Government Engineering College, Bhavnagar",
+      "location": "Bhavnagar, Gujarat",
+      "website": "",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 56,
+    "fields": {
+      "name": "University of Delhi (North Campus)",
+      "location": "New Delhi",
+      "website": "http://www.du.ac.in",
+      "college_type": "University",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 57,
+    "fields": {
+      "name": "Christ College (Government aided) - Bengaluru (note: some parts are government-aided)",
+      "location": "Bengaluru, Karnataka",
+      "website": "https://christuniversity.in",
+      "college_type": "Arts & Science",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Auditorium"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 58,
+    "fields": {
+      "name": "Government College of Engineering, Amravati",
+      "location": "Amravati, Maharashtra",
+      "website": "",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 59,
+    "fields": {
+      "name": "National Institute of Technology, Durgapur (NIT Durgapur)",
+      "location": "Durgapur, West Bengal",
+      "website": "https://nitdgp.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research Center"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 60,
+    "fields": {
+      "name": "Bangalore Medical College and Research Institute (BMCRI)",
+      "location": "Bengaluru, Karnataka",
+      "website": "http://bmcri.org",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 61,
+    "fields": {
+      "name": "Government College of Engineering, Nagpur",
+      "location": "Nagpur, Maharashtra",
+      "website": "",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 62,
+    "fields": {
+      "name": "Mahatma Gandhi University",
+      "location": "Kottayam, Kerala",
+      "website": "https://www.mgu.ac.in",
+      "college_type": "University",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 63,
+    "fields": {
+      "name": "University of Calcutta",
+      "location": "Kolkata, West Bengal",
+      "website": "https://www.caluniv.ac.in",
+      "college_type": "University",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 64,
+    "fields": {
+      "name": "Assam Medical College, Dibrugarh",
+      "location": "Dibrugarh, Assam",
+      "website": "",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 65,
+    "fields": {
+      "name": "Government College of Engineering, Karad",
+      "location": "Karad, Maharashtra",
+      "website": "",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 66,
+    "fields": {
+      "name": "Government Medical College, Jammu",
+      "location": "Jammu, Jammu & Kashmir",
+      "website": "",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 67,
+    "fields": {
+      "name": "Government College of Engineering, Karur (additional)",
+      "location": "Karur, Tamil Nadu",
+      "website": "",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Labs",
+        "Hostel",
+        "Library"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 68,
+    "fields": {
+      "name": "Jamia Millia Islamia (Central University)",
+      "location": "New Delhi",
+      "website": "https://www.jmi.ac.in",
+      "college_type": "University",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 69,
+    "fields": {
+      "name": "Sardar Vallabhbhai Patel National Institute of Technology (SVNIT)",
+      "location": "Surat, Gujarat",
+      "website": "https://www.svnit.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 70,
+    "fields": {
+      "name": "Government College of Engineering, Salem (another listing)",
+      "location": "Salem, Tamil Nadu",
+      "website": "https://www.gcesalem.edu.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs",
+        "Sports Complex"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 71,
+    "fields": {
+      "name": "Indian Institute of Information Technology, Allahabad (IIIT Allahabad)",
+      "location": "Prayagraj (Allahabad), Uttar Pradesh",
+      "website": "https://www.iiita.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 72,
+    "fields": {
+      "name": "Indian Institute of Technology Ropar (IIT Ropar)",
+      "location": "Rupnagar, Punjab",
+      "website": "https://www.iitrpr.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 73,
+    "fields": {
+      "name": "Government Arts College, Thiruvananthapuram",
+      "location": "Thiruvananthapuram, Kerala",
+      "website": "",
+      "college_type": "Arts & Science",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Auditorium"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 74,
+    "fields": {
+      "name": "University of Mumbai (Fort Campus)",
+      "location": "Mumbai, Maharashtra",
+      "website": "https://mu.ac.in",
+      "college_type": "University",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 75,
+    "fields": {
+      "name": "Government Medical College, Kozhikode",
+      "location": "Kozhikode, Kerala",
+      "website": "",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 76,
+    "fields": {
+      "name": "Government College of Engineering, Hassan",
+      "location": "Hassan, Karnataka",
+      "website": "",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 77,
+    "fields": {
+      "name": "University of Madras",
+      "location": "Chennai, Tamil Nadu",
+      "website": "https://www.unom.ac.in",
+      "college_type": "University",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Research",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 78,
+    "fields": {
+      "name": "Government Polytechnic, Chennai",
+      "location": "Chennai, Tamil Nadu",
+      "website": "",
+      "college_type": "Polytechnic",
+      "fees": "",
+      "facilities": [
+        "Workshops",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 79,
+    "fields": {
+      "name": "Karnataka Institute of Medical Sciences (KIMS), Hubli",
+      "location": "Hubli, Karnataka",
+      "website": "https://kims.kar.nic.in",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 80,
+    "fields": {
+      "name": "Government Engineering College, Idukki",
+      "location": "Idukki, Kerala",
+      "website": "",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 81,
+    "fields": {
+      "name": "National Institute of Technology, Kurukshetra (NIT Kurukshetra)",
+      "location": "Kurukshetra, Haryana",
+      "website": "https://nitkkr.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 82,
+    "fields": {
+      "name": "Government Degree College, Anantapur",
+      "location": "Anantapur, Andhra Pradesh",
+      "website": "",
+      "college_type": "General",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 83,
+    "fields": {
+      "name": "Government Medical College, Srinagar",
+      "location": "Srinagar, Jammu & Kashmir",
+      "website": "",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 84,
+    "fields": {
+      "name": "National Institute of Technology, Jamshedpur (NIT Jamshedpur)",
+      "location": "Jamshedpur, Jharkhand",
+      "website": "https://www.nitjsr.ac.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 85,
+    "fields": {
+      "name": "Government College of Engineering, Sattur",
+      "location": "Sattur, Tamil Nadu",
+      "website": "",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 86,
+    "fields": {
+      "name": "Government Medical College, Amritsar",
+      "location": "Amritsar, Punjab",
+      "website": "",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 87,
+    "fields": {
+      "name": "Mangalore University (Govt)",
+      "location": "Mangaluru, Karnataka",
+      "website": "https://mangaloreuniversity.ac.in",
+      "college_type": "University",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Research"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 88,
+    "fields": {
+      "name": "Government Arts College, Thanjavur",
+      "location": "Thanjavur, Tamil Nadu",
+      "website": "",
+      "college_type": "Arts & Science",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Auditorium",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 89,
+    "fields": {
+      "name": "Government Engineering College, Kozhikode",
+      "location": "Kozhikode, Kerala",
+      "website": "",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Labs",
+        "Hostel",
+        "Library"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 90,
+    "fields": {
+      "name": "Institute of Medical Sciences, BHU (IMS-BHU)",
+      "location": "Varanasi, Uttar Pradesh",
+      "website": "https://www.imsbhu.ac.in",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Labs",
+        "Hostel",
+        "Research"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 91,
+    "fields": {
+      "name": "Government College of Engineering, Salem (third listing)",
+      "location": "Salem, Tamil Nadu",
+      "website": "https://www.gcesalem.edu.in",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Labs",
+        "Workshops"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 92,
+    "fields": {
+      "name": "Rajiv Gandhi University of Health Sciences (RGUHS)",
+      "location": "Bengaluru, Karnataka",
+      "website": "http://www.rguhs.ac.in",
+      "college_type": "Arts & Science",
+      "fees": "",
+      "facilities": [
+        "Administration",
+        "Affiliated Colleges List"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 93,
+    "fields": {
+      "name": "Government Polytechnic, Coimbatore",
+      "location": "Coimbatore, Tamil Nadu",
+      "website": "",
+      "college_type": "Polytechnic",
+      "fees": "",
+      "facilities": [
+        "Workshops",
+        "Lab",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 94,
+    "fields": {
+      "name": "Government Medical College, Kottayam",
+      "location": "Kottayam, Kerala",
+      "website": "",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 95,
+    "fields": {
+      "name": "Government Engineering College, Bikaner",
+      "location": "Bikaner, Rajasthan",
+      "website": "",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 96,
+    "fields": {
+      "name": "Government Medical College, Nagpur",
+      "location": "Nagpur, Maharashtra",
+      "website": "",
+      "college_type": "Medical",
+      "fees": "",
+      "facilities": [
+        "Hospital",
+        "Labs",
+        "Hostel"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 97,
+    "fields": {
+      "name": "Government Engineering College, Porbandar",
+      "location": "Porbandar, Gujarat",
+      "website": "",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Labs"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 98,
+    "fields": {
+      "name": "Government Arts College, Thoothukudi",
+      "location": "Thoothukudi, Tamil Nadu",
+      "website": "",
+      "college_type": "Arts & Science",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Auditorium"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 99,
+    "fields": {
+      "name": "Government College of Engineering, Jalgaon",
+      "location": "Jalgaon, Maharashtra",
+      "website": "",
+      "college_type": "Engineering",
+      "fees": "",
+      "facilities": [
+        "Labs",
+        "Hostel",
+        "Library"
+      ],
+      "cutoff_marks": ""
+    }
+  },
+  {
+    "model": "core.college",
+    "pk": 100,
+    "fields": {
+      "name": "Government Arts College, Ramanathapuram",
+      "location": "Ramanathapuram, Tamil Nadu",
+      "website": "",
+      "college_type": "Arts & Science",
+      "fees": "",
+      "facilities": [
+        "Library",
+        "Hostel",
+        "Sports Complex"
+      ],
+      "cutoff_marks": ""
+    }
+  }
+]
