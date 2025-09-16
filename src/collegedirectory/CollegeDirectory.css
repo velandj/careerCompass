@@ -1,0 +1,230 @@
+/* Container */
+.directory-container {
+  min-height: 100vh;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  
+}
+
+
+/* Title */
+.title {
+  font-size: 28px;
+  font-weight: bold;
+  color: #1d4ed8;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Search + Dropdown container */
+.filter-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+/* Search Input */
+.search-input {
+  width: 50%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  outline: none;
+  font-size: 16px;
+}
+
+.search-input:focus {
+  border-color: #1d4ed8;
+  box-shadow: 0 0 5px #1d4ed8;
+}
+
+/* Dropdown */
+.dropdown {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  outline: none;
+}
+
+.dropdown:focus {
+  border-color: #1d4ed8;
+  box-shadow: 0 0 5px #1d4ed8;
+}
+
+/* Grid */
+.college-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 20px;
+}
+
+/* Card */
+.college-card {
+  background: #fff;
+  padding: 16px;
+  border-radius: 12px;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  transition: 0.3s ease;
+}
+
+.college-card:hover {
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* College text */
+.college-name {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+.college-type {
+  font-size: 14px;
+  color: #666;
+  margin: 4px 0;
+}
+
+.college-location {
+  font-size: 14px;
+  color: #444;
+}
+
+/* Facilities */
+.facilities-title {
+  margin-top: 10px;
+  font-weight: bold;
+  color: #555;
+}
+
+.facilities-list {
+  list-style: disc;
+  margin-left: 20px;
+  color: #333;
+  font-size: 14px;
+}
+
+/* Map link */
+.map-link {
+  display: inline-block;
+  margin-top: 10px;
+  color: #1d4ed8;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.map-link:hover {
+  text-decoration: underline;
+}
+
+/* No result */
+.no-result {
+  text-align: center;
+  color: #888;
+  font-size: 16px;
+}
+/* Website link */
+.website-link {
+  display: inline-block;
+  margin-top: 8px;
+  margin-right: 12px;
+  color: #0d9488; /* teal */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.website-link:hover {
+  text-decoration: underline;
+}
+/* ================= Responsive Design ================= */
+
+/* 📱 Small devices (up to 600px wide) */
+@media (max-width: 600px) {
+  .title {
+    font-size: 22px;
+  }
+
+  .filter-container {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+  }
+
+  .search-input {
+    width: 100%;
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  .dropdown {
+    width: 100%;
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  .college-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+
+  .college-card {
+    padding: 12px;
+  }
+
+  .college-name {
+    font-size: 18px;
+  }
+
+  .college-type,
+  .college-location,
+  .facilities-list {
+    font-size: 13px;
+  }
+}
+
+/* 💻 Medium devices (tablets: 601px – 1024px) */
+@media (min-width: 601px) and (max-width: 1024px) {
+  .title {
+    font-size: 24px;
+  }
+
+  .filter-container {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .search-input {
+    width: 60%;
+    font-size: 15px;
+  }
+
+  .dropdown {
+    font-size: 15px;
+  }
+
+  .college-grid {
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 18px;
+  }
+
+  .college-card {
+    padding: 14px;
+  }
+}
+
+/* 🖥️ Large screens (1025px and up) */
+@media (min-width: 1025px) {
+  .title {
+    font-size: 28px;
+  }
+
+  .search-input {
+    width: 50%;
+  }
+
+  .college-grid {
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  }
+}

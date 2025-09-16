@@ -1,0 +1,16 @@
+.progress-root {
+  background-color: #dbeafe; /* light primary background */
+  height: 8px;
+  width: 100%;
+  border-radius: 4px;
+  overflow: hidden;
+  position: relative;
+}
+
+.progress-indicator {
+  background-color: #3b82f6; /* primary color */
+  height: 100%;
+  width: 0%;
+  transition: width 0.5s ease;
+  border-radius: 4px;
+}
