@@ -1,16 +1,13 @@
-# Node / React
+# dependencies
 node_modules/
+
+# production
 build/
 dist/
-.env
-# Python / Django
-__pycache__/
-*.pyc
-.venv/
-venv/
-db.sqlite3
-*.sqlite3
-*.log
-.idea/
-.vscode/
+
+# misc
 .DS_Store
+.vscode/
+
+# env
+.env
